@@ -13,11 +13,12 @@
 
 ## 👨‍💻 Sobre Mim
 
-Estudante de Ciência da Computação focado em desenvolvimento back-end em **Java** e **Estrutura de Dados**. Busco oportunidade de estágio para aplicar conhecimentos em Java, lógica de programação e manutenção de computadores (hardware, software e redes).
+Estudante de **Ciência da Computação** (UNINASSAU, 2025-2028). Com forte foco em **desenvolvimento Back-End (Java)**, **POO** e **Estruturas de Dados**. Em busca de uma oportunidade de estágio onde possa unir lógica de programação em Java, boas práticas de versionamento (Git/GitHub) e eficiência operacional.
 
-- 🎓 Cursando **Ciência da Computação** na **UNINASSAU** (2025–2028).
-- 🛠️ Experiência prévia em **Manutenção de Hardware e Software** na **PlastPan** (2023–2025), garantindo infraestrutura e suporte tecnológico.
-- 🇧🇷 Localizado em **Benedito Bentes I, Maceió - AL**.
+- 🎓 **Formação:** Bacharelado em Ciência da Computação – UNINASSAU (2025–2028).
+- 💡 **Core Skills:** `Java` `POO` `Git` `GitHub` `IntelliJ` `VS Code`.
+- 🛠️ **Background Técnico:** Suporte a infraestrutura, redes, hardware e software (PlastPan, 2023–2025).
+- 🇧🇷 **Localização:** Benedito Bentes I, Maceió - AL.
 
 ---
 

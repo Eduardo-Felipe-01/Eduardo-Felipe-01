@@ -26,10 +26,11 @@ Estudante de **Ciência da Computação** (UNINASSAU, 2025-2028). Com forte foco
 
 | Categoria | Tecnologias / Ferramentas |
 | :--- | :--- |
-| **Linguagem Principal** | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> |
-| **Versionamento & Ambiente** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> |
+| **Back-End & Core** | <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/POO-333333?style=for-the-badge&logo=codeforces&logoColor=white" alt="POO" /> |
+| **Web / Fundamentos** | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> |
+| **Versionamento & Ágil** | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> |
 | **IDEs** | <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> |
-| **Infra / Técnico** | <img src="https://img.shields.io/badge/Hardware_%26_Software-333333?style=for-the-badge&logo=pcgamingwiki&logoColor=white" alt="Hardware/Software" /> |
+| **Infra & Suporte** | <img src="https://img.shields.io/badge/Hardware_%26_Software-2F3129?style=for-the-badge&logo=windows&logoColor=white" alt="Hardware/Software" /> |
 
 ---
 

@@ -32,13 +32,25 @@ Estudante de Ciência da Computação focado em desenvolvimento back-end em **Ja
 
 ---
 
-## 🏆 Projeto Destaque
+## 🏆 Projetos e Portfólio
 
-### **💱 Conversor de Moedas (Java)**
+### **💱 Projeto Destaque: Conversor de Moedas (Java)**
 Aplicação desenvolvida para conversão entre diferentes moedas utilizando **Java** com estruturas repetitivas e condicionais, em projeto colaborativo com metodologia ágil.
 
 - **💻 Repositório:** [Eduardo-Felipe-01/Projeto-de-converter-moedas-em-java](https://github.com/Eduardo-Felipe-01/Projeto-de-converter-moedas-em-java)
 
+---
+
+### **🚀 Outros Projetos em Destaque**
+
+| Projeto | Descrição | Tecnologias | Link |
+| :--- | :--- | :---: | :---: |
+| **Sistema-Escolar** | Sistema Escolar para uso de alunos e professores. | `Java` / `Full-stack/Lógica` | [Repositório](https://github.com/Eduardo-Felipe-01/Sistema-Escolar) |
+| **Atividade_Avaliativa-API_de_Curso** | Atividade avaliativa focada em desenvolvimento de API de Curso. | `Java` | [Repositório](https://github.com/Eduardo-Felipe-01/Atividade_Avaliativa-API_de_Curso) |
+| **Frameworks de Back-End** | Estudos e práticas com frameworks de back-end em Java. | `Java` | [Repositório](https://github.com/Eduardo-Felipe-01/BackEnd-Frameworks) |
+| **Curso-Java_POO** | Práticas e estudos orientados a objetos em Java. | `Java` | [Repositório](https://github.com/Eduardo-Felipe-01/Curso-Java_POO) |
+| **projeto-android** | Projeto Android criado no Capítulo 17 do curso de HTML e CSS. | `HTML` `CSS` | [Repositório](https://github.com/Eduardo-Felipe-01/projeto-android) |
+| **html-css** | Práticas e estudos do curso de HTML5 e CSS3 do Curso em Vídeo. | `HTML` `CSS` | [Repositório](https://github.com/Eduardo-Felipe-01/html-css) |
 ---
 
 ## 📫 Vamos nos conectar!

@@ -47,7 +47,7 @@ Aplicação desenvolvida para conversão entre diferentes moedas utilizando **Ja
   <a href="https://github.com/Eduardo-Felipe-01" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:eduardo75felipe@gmail.com" target="_blank">
+  <a href="mailto:eduardo01dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
   </a>
   <a href="https://wa.me/5582988258287" target="_blank">
